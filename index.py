@@ -1,4 +1,6 @@
 age = 10
-human = 1
-total = age * human
-print(total)
+human = "Jovica"
+rof = "Cini"
+
+
+print(f' At {age} you will {rof} the name is {human}') 
